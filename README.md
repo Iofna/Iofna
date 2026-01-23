@@ -83,11 +83,13 @@ Tenho background em **design gráfico**, que me ajuda a criar interfaces visualm
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Programação & Versionamento
+### Programação & Banco de Dados
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -110,6 +112,87 @@ Tenho background em **design gráfico**, que me ajuda a criar interfaces visualm
 
 ---
 
+## 💻 Meus Projetos
+
+### 🎮 Projeto Personagem - Sistema de Batalha em Java
+
+<table>
+<tr>
+<td width="60%">
+
+**Descrição:**  
+Projeto acadêmico desenvolvido em **Java** aplicando conceitos avançados de **Programação Orientada a Objetos (POO)**. Sistema de batalha por turnos com personagens personalizados (Mago e Guerreiro), sistema de inventário e interface gráfica utilizando **Java Swing**.
+
+**Conceitos Aplicados:**
+- 📦 Classes e Objetos
+- 🎯 Herança e Polimorfismo
+- 🔒 Encapsulamento
+- 🎨 Interface Gráfica (Swing GUI)
+- ⚙️ Arquitetura MVC
+
+</td>
+<td width="40%" align="center">
+
+**Tecnologias:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square)
+
+**Status:**  
+✅ Concluído
+
+**Link:**  
+_Em breve no GitHub_
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📝 Próximos Projetos
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+#### 📱 App Web Responsivo
+```
+HTML5
+CSS3
+JavaScript
+```
+**Em planejamento**
+
+</td>
+<td width="33%" align="center">
+
+#### 📦 Sistema CRUD
+```
+Front End
+MySQL
+API REST
+```
+**Em planejamento**
+
+</td>
+<td width="33%" align="center">
+
+#### 📊 Dashboard
+```
+React/Vue
+Charts
+Responsivo
+```
+**Em planejamento**
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📬 Vamos Nos Conectar?
 
 <div align="center">
@@ -124,13 +207,6 @@ Tenho background em **design gráfico**, que me ajuda a criar interfaces visualm
 ---
 
 <div align="center">
-
-### 🎨 Portfolio (Em Progresso)
-
-```
-Projetos de Front End em desenvolvimento...
-Acompanhe meus repositórios! 🚀
-```
 
 **Última atualização:** Janeiro 2026
 
