@@ -2,205 +2,168 @@
 
 # 💻 Victor Iofna | Front End Developer
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Responsive](https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge&logo=designthinking&logoColor=white)](https://en.wikipedia.org/wiki/Responsive_web_design)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+End+em+Forma%C3%A7%C3%A3o;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Buscando+oportunidades+de+est%C3%A1gio%2Fjunior)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 👨‍💻 Desenvolvedor Front End | Estudante de Engenharia de Computação
-
-<p align="center">
-  📍 Araranguá, SC · UFSC<br>
-  🎯 Buscando oportunidades de estágio/júnior em desenvolvimento web<br>
-  💡 Focado em criar interfaces modernas e responsivas
-</p>
 
 ---
 
 ## 🎯 Sobre Mim
 
-Sou **desenvolvedor front end em formação**, apaixonado por criar **interfaces modernas, responsivas e otimizadas** que proporcionam excelente experiência ao usuário.
+Sou um **desenvolvedor Front End em formação**, apaixonado por criar **interfaces modernas, responsivas e otimizadas** que proporcionam excelente experiência ao usuário. 
 
-Estou dominando as tecnologias essenciais:
-- **HTML5** para estrutura semântica
-- **CSS3** para estilização e design responsivo
-- **JavaScript (ES6+)** para interatividade dinâmica
-- **Responsive Design** para funcionar em todos os dispositivos
+📍 **Localização:** Araranguá, SC - UFSC  
+🎓 **Formação:** Engenharia de Computação (UFSC) | Desenvolvimento de Sistemas (SENAC)  
+🎨 **Especialidade:** UI/UX, Design Responsivo, JavaScript Moderno  
 
-Tenho background em **design gráfico**, que me ajuda a criar interfaces visualmente atrativas e com excelente UX/UI.
-
----
-
-## 🚀 Atualmente Trabalhando Em
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-
-### 🔥 Front End
-
-```
-✨ HTML5 Semântico
-🎨 CSS3 Avançado
-⚡ JavaScript Moderno
-📱 Mobile First
-```
-
-</td>
-<td width="50%" align="center">
-
-### 🛠️ Ferramentas
-
-```
-🎭 Figma & Design
-💻 VS Code
-🐙 Git & GitHub
-📦 Responsive Dev
-```
-
-</td>
-</tr>
-</table>
+### 💡 O que busco
+- 🚀 Oportunidades de estágio/junior em desenvolvimento front-end
+- 📚 Aprender com profissionais experientes
+- 🤝 Contribuir em projetos inovadores
+- 🌱 Crescimento contínuo em tecnologia
 
 ---
 
-## 💎 Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-### Front End Development
-
+### 🎯 Front End Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-FF6B6B?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 
-### Design & Ferramentas
-
+### 🔧 Ferramentas & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) *(Estudando)*
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) *(Iniciante)*
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Programação & Banco de Dados
-
+### 💻 Programação & Banco de Dados
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iofna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iofna&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
-```
-╔══════════════════════════════════════╗
-║  Foco Atual: Front End Development   ║
-║  Status: Em Aprendizado Contínuo    ║
-║  Objetivo: Estágio/Júnior Dev        ║
-╚══════════════════════════════════════╝
-```
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iofna&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 💻 Meus Projetos
+## 📜 Formação & Certificações
 
-### 🎮 Projeto Personagem - Sistema de Batalha em Java
+### 🎓 Educação
+- **Engenharia de Computação** - UFSC (2023-2029)
+- **Desenvolvimento de Sistemas** - SENAC (2024-2025) ✅ Em andamento
+- **Técnico em Eletrônica** - IFSC
+- **Automação Industrial** - IFSC
 
-<table>
-<tr>
-<td width="60%">
-
-**Descrição:**  
-Projeto acadêmico desenvolvido em **Java** aplicando conceitos avançados de **Programação Orientada a Objetos (POO)**. Sistema de batalha por turnos com personagens personalizados (Mago e Guerreiro), sistema de inventário e interface gráfica utilizando **Java Swing**.
-
-**Conceitos Aplicados:**
-- 📦 Classes e Objetos
-- 🎯 Herança e Polimorfismo
-- 🔒 Encapsulamento
-- 🎨 Interface Gráfica (Swing GUI)
-- ⚙️ Arquitetura MVC
-
-</td>
-<td width="40%" align="center">
-
-**Tecnologias:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square)
-
-**Status:**  
-✅ Concluído
-
-**Link:**  
-_Em breve no GitHub_
-
-</td>
-</tr>
-</table>
+### 🏆 Cursos Realizados
+- HTML5, CSS3, JavaScript - [Curso em Vídeo](https://www.cursoemvideo.com)
+- Desenvolvimento Web Completo - Múltiplas plataformas
+- Design Gráfico - Photoshop CC, Figma
+- C++, Java, Python - Programação Orientada a Objetos
 
 ---
 
-### 📝 Próximos Projetos
+## 💼 Experiência Profissional
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
+### 👨‍💼 Coordenador de Viagens (Atual)
+- Gestão de reservas e itinerários para clientes
+- Organização de pacotes turísticos
+- Comunicação efetiva com stakeholders
+- Experiencia em CRM e sistemas de booking
 
-#### 📱 App Web Responsivo
-```
-HTML5
-CSS3
-JavaScript
-```
-**Em planejamento**
+### 🎨 Designer Gráfico (Freelancer)
+- Criação de layouts responsivos
+- Diagramas e fluxogramas visuais
+- Design de interfaces (UI/UX)
 
-</td>
-<td width="33%" align="center">
-
-#### 📦 Sistema CRUD
-```
-Front End
-MySQL
-API REST
-```
-**Em planejamento**
-
-</td>
-<td width="33%" align="center">
-
-#### 📊 Dashboard
-```
-React/Vue
-Charts
-Responsivo
-```
-**Em planejamento**
-
-</td>
-</tr>
-</table>
+### 💻 Desenvolvimento de Sistemas
+- Projetos acadêmicos completos em Java, C++ e Python
+- Modelagem de banco de dados
+- Programação Orientada a Objetos (POO)
 
 ---
 
-## 📬 Vamos Nos Conectar?
+## 💡 Competências Principais
+
+| Categoria | Habilidades |
+|-----------|-------------|
+| **Técnicas** | HTML/CSS/JS, Design Responsivo, POO, Banco de Dados |
+| **Ferramentas** | Git/GitHub, VS Code, Figma, Photoshop, DevTools |
+| **Soft Skills** | Comunicação, Resolução de Problemas, Trabalho em Equipe, Organização |
+| **Metodologias** | Desenvolvimento Ágil, Clean Code, Versionamento |
+
+---
+
+## 📌 Meus Projetos
+
+### 🌟 Principais Repositórios
+- **[Sistema de Agência de Viagens](https://github.com/Iofna/sistema-agencia-viagens)** - Java POO, Cálculo de pacotes
+- **[Sistema de Clínica Veterinária](https://github.com/Iofna/sistema-clinica-veterinaria)** - Modelagem BD, RF/RNF, Casos de Uso
+- **[PDV VIVOATAC](https://github.com/Iofna/sistema-pdv-vivoatac-java)** - Java Swing, Interface Gráfica
+- **[Sistema SisFood](https://github.com/Iofna/sistema-sisfood-mysql)** - MySQL, Procedures, Triggers
+
+### 🚀 Em Desenvolvimento
+- **Landing Page Responsiva** - HTML5, CSS3, JavaScript puro
+- **E-commerce Clone** - React, JavaScript moderno
+- **Dashboard Admin** - React, Gráficos e dados
+
+---
+
+## 🎯 Objetivos de Aprendizado
+
+- ✅ Dominar HTML/CSS/JavaScript
+- 📖 React.js e TypeScript (em progresso)
+- 📖 Next.js e frameworks modernos
+- 📖 Testes unitários e E2E
+- 📖 APIs REST e GraphQL
+- 📖 UX/UI Avançado
+
+---
+
+## 📱 Vamos Nos Conectar?
 
 <div align="center">
 
-[![Email UFSC](https://img.shields.io/badge/Email_UFSC-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.caba@grad.ufsc.br)
-[![Email Pessoal](https://img.shields.io/badge/Email_Pessoal-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:yofnacaba@gmail.com)
+[![Email UFSC](https://img.shields.io/badge/Email%20UFSC-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.caba@grad.ufsc.edu.br)
+[![Email Pessoal](https://img.shields.io/badge/Email%20Pessoal-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yofnacaba@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-iofna-caba-a06a832a2)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999397911)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999937911)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Iofna)
+
+</div>
+
+---
+
+### 📊 Estatísticas de Atividade
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Iofna&color=blue&style=flat-square)
+
+</div>
+
+<div align="center">
+
+**Visitante Último acesso:** Janeiro 2026  
+**Total de Repositórios:** 14+  
+**Contribuições:** 50+ no último ano  
+**Status Profissional:** Buscando oportunidades de estágio/junior
 
 </div>
 
@@ -208,6 +171,7 @@ Responsivo
 
 <div align="center">
 
-**Última atualização:** Janeiro 2026
+⭐ Se gostou do meu perfil, deixe uma estrela!  
+🔗 Conecte-se comigo para discussões sobre tecnologia e oportunidades
 
 </div>
