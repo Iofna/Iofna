@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+End+em+Forma%C3%A7%C3%A3o;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Buscando+oportunidades+de+est%C3%A1gio%2Fjunior)](https://git.io/typing-svg)
 
+
+### 🎯 Front End Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ## 🎯 Sobre Mim
