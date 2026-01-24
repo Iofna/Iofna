@@ -165,7 +165,7 @@ Sou um **desenvolvedor Front End em formação**, apaixonado por criar **interfa
 [![EMAIL UFSC](https://img.shields.io/badge/EMAIL%20UFSC-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Victor.c12@aluno.ifsc.edu.br)
 [![EMAIL PESSOAL](https://img.shields.io/badge/EMAIL%20PESSOAL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriofnacaba@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-iofna-caba-a06a832a2)
-[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991234567)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_iofna_caba)[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991234567)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Iofna)
 
 ---
