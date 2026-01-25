@@ -1,4 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FiraCode&pause=1000&color=00FF08center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Computação+&+Dev+Front+End+Buscando+oportunidades+de+estágio+/Emprego)](https://git.io/typing-svg)
+<h1 align="center">
+  🚀 Victor Iofna Caba VP
+</h1>
+
+<p align="center">
+  <strong>Front End Developer • Engenharia de Computação</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FF08&center=true&vCenter=true&width=800&lines=Transformando+ideias+em+interfaces;HTML+CSS+JavaScript+React;Em+busca+de+Estágio+ou+Oportunidade+Profissional" />
+</p>
+
 
 ## 🎯 Estudante de Engenharia De Computação & Dev. Front End
 
@@ -50,13 +61,12 @@ Sou um **desenvolvedor Front End em formação**, apaixonado por criar **interfa
 ### 🎓 Educação
 
 - **Engenharia de Computação** - UFSC (2023-2029)
-- **Desenvolvimento de Sistemas** - SENAC (2024-2025) ✅ Em andamento
-- **Técnico em Eletrônica** - IFSC
-- **Automação Industrial** - IFSC
+- **Desenvolvimento de Sistemas** - SENAC (2024-2026) ✅ Em andamento
+- **Automação Industrial** - IFSC (2024-2026) ✅ Em andamento
 
 ### 👨‍💻 Cursos Realizados
 
-- HTML5, CSS3, JavaScript - Curso em Vídeo
+- HTML5, CSS3, MySQL, JavaScript - Curso em Vídeo
 - Desenvolvimento Web Completo - Múltiplas plataformas
 - Design Gráfico - Photoshop CC, Figma
 - C++, Java, Python - Programação Orientada a Objetos
