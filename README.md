@@ -1,6 +1,4 @@
----
-
-##  💪 Competências Principais
+## 💪 Competências Principais
 
 | Categoria  | Habilidades |
 |-----------|-------------|
@@ -11,16 +9,16 @@
 
 ---
 
-##  📌 Meus Projetos
+## 📌 Meus Projetos
 
-###  ⭐ Principais Repositórios
+### ⭐ Principais Repositórios
 
 - **[Sistema de Agência de Viagens](https://github.com/Iofna/agencia-viagens)** - Java POO, Cálculo de pacotes
 - **[Sistema de Clínica Veterinária](https://github.com/Iofna/sistema-clinica-veterinaria)** - Modelagem BD, RF/RNF, Casos de Uso
 - **[PDV VIVOATAC](https://github.com/Iofna/pdv-vivoatac)** - Java Swing, Interface Gráfica
 - **[Sistema SisFood](https://github.com/Iofna/sisfood)** - MySQL, Procedures, Triggers
 
-###  🚀 Em Desenvolvimento
+### 🚀 Em Desenvolvimento
 
 - **Landing Page Responsiva** - HTML5, CSS3, JavaScript puro
 - **E-commerce Clone** - React, JavaScript moderno
@@ -28,7 +26,7 @@
 
 ---
 
-##  🎯 Objetivos de Aprendizado
+## 🎯 Objetivos de Aprendizado
 
 - ✅ Dominar HTML/CSS/JavaScript
 - 📘 React.js e TypeScript (em progresso)
@@ -39,7 +37,7 @@
 
 ---
 
-##  📞 Vamos Nos Conectar?
+## 📞 Vamos Nos Conectar?
 
 [![EMAIL UFSC](https://img.shields.io/badge/EMAIL%20UFSC-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Victor.c12@aluno.ifsc.edu.br)
 [![EMAIL PESSOAL](https://img.shields.io/badge/EMAIL%20PESSOAL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriofnacaba@gmail.com)
@@ -52,6 +50,6 @@
 
 ---
 
-##  📈 Estatísticas de Atividade
+## 📈 Estatísticas de Atividade
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iofna&theme=dracula&hide_border=true)
