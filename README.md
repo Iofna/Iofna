@@ -19,7 +19,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um **desenvolvedor Front End em formação**, apaixonado por criar **interfaces modernas, responsivas e otimizadas** que proporcionam excelente experiência ao usuário.
+Sou um **desenvolvedor Front End em formação** e **criador de sites aplicativos**, apaixonado por criar **interfaces modernas, responsivas e otimizadas** que proporcionam excelente experiência ao usuário.
 
 📍 **Localização:** Araranguá, SC - UFSC  
 🎓 **Formação:** Engenharia de Computação (UFSC) | Desenvolvimento de Sistemas (SENAC)  
