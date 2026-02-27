@@ -109,6 +109,11 @@ Sou um **desenvolvedor Front End em formação**, apaixonado por criar **interfa
 
 ## 📌 Meus Projetos
 
+
+### 💰 Destaque
+
+* **[Minhas Finanças](https://github.com/Iofna/minhas-financas)** - React, Vite, Tailwind CSS, Recharts. Dashboard de gestão financeira pessoal com gráficos interativos
+
 ### ⭐ Principais Repositórios
 
 - **[Sistema de Agência de Viagens](https://github.com/Iofna/agencia-viagens)** - Java POO, Cálculo de pacotes
