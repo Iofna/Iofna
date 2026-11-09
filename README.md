@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-  <strong>Front End Developer • Engenharia de Computação</strong>
+  <strong>Desenvolvedor Full Stack</strong><br>
+  React, TypeScript e Node.js | Automação Industrial | UI/UX e IA<br>
+  Bolsista PIBIC-CNPq | Engenharia de Computação na UFSC
 </p>
 
 <p align="center">
